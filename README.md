@@ -91,6 +91,9 @@ cropper.on('change', ({ crops }) => {
 
 ## Developing
 
+Use Node.js 22.23.4 or a newer patch within major 22 (`nvm use`) and npm.
+Rebuild artifacts after updating the runtime.
+
 To develop and test this library, you can run:
 
 ```bash
